@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+    background-color: white;
+    font-size: medium;
+}
+
+.main{
+    margin: 0;
+padding: 0;
+}
+.second-container{
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 38px;
+}
+.title{
+    font-size: 4rem;
+}
+.form{
+    display: grid;
+
+}
+.label{
+    font-size: 1.6rem;
+
+}
